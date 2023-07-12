@@ -18,6 +18,10 @@ a {
   text-decoration: none;
 }
 
+#get-started h4 a {
+  color: #202028;
+}
+
 #three-ways {
   display: flex;
   align-items: center;
